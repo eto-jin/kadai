@@ -8,7 +8,7 @@ path = os.getcwd()
 path = os.pardir
 '''
 print(os.getcwd())
-choice_address = "/Users/etojin/anaconda3/bin/conda/nagai labo_task/#卒論生_共通課題/2020"
+choice_address = "/Users/etojin/anaconda3/bin/conda/nagai labo_task/卒論生_共通課題/2020"
 processing_file = choice_address
 
 want_files_name=[]
